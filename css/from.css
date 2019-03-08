@@ -65,3 +65,12 @@ a.menuLink_visited, a.menuLink:link {
 a.menuLink:active {
 	color: red;
 }
+
+.textLink {
+	text-decoration: none;
+	color: #082a8e;
+}
+
+.textLink:hover {
+	color:red;
+}
